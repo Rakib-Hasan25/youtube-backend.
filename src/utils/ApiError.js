@@ -21,4 +21,4 @@ class ApiError extends Error{
 }
 
 
-throw new ApiError(404,"afdsafasdfasdf")
+export {ApiError}
